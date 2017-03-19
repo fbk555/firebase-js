@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-base-10.2.0_e7c9854453311d0b33e0b8f14fb92d6157a2159c.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-v4-24.0.0_a039ca14a11251000bfb535ab570efc1d8cb55e4.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-analytics-10.2.0_4ba04dcafeb5229a0dd2b57d06b1489b27e087df.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-appcompat-v7-23.4.0_e0fc1e3edf0b16c9187d52364e2cf4f200f38b3a.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-widgets-release_426c8c0a6fc3646aac3d8f244062803fef52f113.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-auth-10.2.0_f7d141a8425fc90c58c27ca5cddf93cdf79e3592.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\firebase-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-firebase-release_1d9e64543badabc31b90f13e2ab82cf5ae7f583d.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\Common-2017.1.222-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cdff2d017e31e2cd2ec88ccd752a84109ff49276">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-Common-2017.1.222-dev-release_a3fff5cb39d0b56e229edb1d2dcbf292b7578694.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\firebasejs\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\firebasejs-runtime-unspecified_246ca8c8b88662f0e94b48d79b117be415048a02.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\List-2017.1.222-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dd5270f08bd5ab43db35e2d33a8c72c6400a17f7">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-List-2017.1.222-dev-release_468b2c01b57c246c975c8230b21df14d3619bd08.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-database-connection-10.2.0_0eabe8ddd41ad557eaa95d48f231d3968e4bf86a.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\Primitives-2017.1.222-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="06155160c599e0221554c27d8186d9972349b521">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-Primitives-2017.1.222-dev-release_cd47bbd3c196e83614721fb50f30c3f41479dfd0.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-database-10.2.0_be67545af0514cb2aff4f0a5a0b1ade7824b6748.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-design-23.4.0_1fcd0f6a8ae19f15e1627a1923eed3e68cc765c7.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-iid-10.2.0_32f486c8197a13d99ccbaa6a2eda75ed45c6321c.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-analytics-impl-10.2.0_fa2163fcc3447ddee7b4b9ce7ac06578e702325d.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-basement-10.2.0_4c32f7f568d3dcbfe5df4923ce0085e5fb7fe058.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-recyclerview-v7-23.4.0_3d688a83363bc234fbd3d3a4adaf4c1ef71f4605.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-tasks-10.2.0_302f2d0ec9b1e7cde1d9b56316c697c2ae7a90db.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\firebasejs\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\binding-generator_7ae482c845fee7d851567c8b0e2c1c732a547cd2.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-animated-vector-drawable-23.4.0_d6b89d4ed84bd476159a34e062d3733da077c4be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Farhan Bin Khalid\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\support-annotations-24.0.0_dfa0c894f5585d03b13b3904d336e8a9cc5d927a.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\Data-2017.1.222-dev-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4da5140c1816749cfdac3c4cb1e68e3f230174e5">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-Data-2017.1.222-dev-release_cb5c4a430a55af9181bd607c427349a9af87599b.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-vector-drawable-23.4.0_3c79c653dfa3d59fa5199a43509c1a683810c8c0.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\internal_impl-24.0.0_11938c62140e099ebb968c5904b519ba4374c93a.jar" />
+    </item>
+    <item
+        jar="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\NsEx\20170312_Ex1\firebase-js\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-common-10.2.0_94d987c91ac0b7fffe6f9a1222e6259a6dae3099.jar" />
+    </item>
+
+</items>

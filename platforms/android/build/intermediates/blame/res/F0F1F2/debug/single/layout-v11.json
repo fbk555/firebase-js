@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\layout-v11\\on_demand_manual.xml",
+        "source": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\build\\intermediates\\exploded-aar\\List-2017.1.222-dev-release\\res\\layout-v11\\on_demand_manual.xml"
+    },
+    {
+        "merged": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\layout-v11\\simple_list_item.xml",
+        "source": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\build\\intermediates\\exploded-aar\\List-2017.1.222-dev-release\\res\\layout-v11\\simple_list_item.xml"
+    }
+]

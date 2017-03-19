@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\NsEx\\20170312_Ex1\\firebase-js\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
