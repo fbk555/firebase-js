@@ -1,4 +1,4 @@
 .vscode
-platforms
+platforms/android/*
 node_modules
 lib
