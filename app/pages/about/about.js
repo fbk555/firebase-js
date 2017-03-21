@@ -19,4 +19,21 @@ AboutPage.prototype.googleSignIn = function(){
   );
 };
 
+AboutPage.prototype.facebookSignIn = function(){
+  console.log("Testing Facebook Sign In");
+
+firebase.login({
+    type: firebase.LoginType.FACEBOOK,
+    scope: ['public_profile', 'email'] // optional: defaults to ['public_profile', 'email']
+  }).then(
+      function (result) {
+        JSON.stringify(result);
+      },
+      function (errorMessage) {
+        console.log(errorMessage);
+      }
+  );
+
+};
+
 module.exports = new AboutPage();
